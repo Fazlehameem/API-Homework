@@ -125,5 +125,4 @@ Follow the steps outlined in the starter notebook to complete the following:
 2. Calculate the expected portfolio return at the `95%` lower and upper confidence intervals based on a `50%` increase in the initial investment.
 
 
-
 ---
